@@ -4,7 +4,7 @@
 
 <p>Bienvenido al curso de Programación en Red</p>
 
-<p>[https://docs.google.com/presentation/d/1noVmBpYhEL3hqL8btc4LRr1lS3PZ_1oOMZoQHl7GSDw/edit?usp=sharing](Participantes)</p>
+[https://docs.google.com/presentation/d/1noVmBpYhEL3hqL8btc4LRr1lS3PZ_1oOMZoQHl7GSDw/edit?usp=sharing](Participantes)
 
 <b>Contenido del curso</b><br>
 <p>En el siguiente board de Miro podrá encontrar las clase asíncronas y las grabaciones de las clases síncronas</p>
