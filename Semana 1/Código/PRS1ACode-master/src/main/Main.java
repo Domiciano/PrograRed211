@@ -54,17 +54,24 @@ public class Main {
 			
 			
 			
-			//******************
-			//CÓDIGO DEL SIGUIENTE VIDEO
-			//******************
-			
-			
 			//ICMP
 			InetAddress ubuntu = InetAddress.getByName("192.168.0.12");
 			System.out.println("Ubuntu connected: "+ubuntu.isReachable(0));
 			
 			InetAddress motox4 = InetAddress.getByName("192.168.0.21");
-			System.out.println("MotoX4 connected: "+motox4.isReachable(0));
+			System.out.println("MotoX4 connected: "+motox4.isReachable(1000));
+			
+			InetAddress icesi = InetAddress.getByName("www.icesi.edu.co");
+			System.out.println("Icesi: "+icesi.getHostAddress());
+			
+			InetAddress google = InetAddress.getByName("www.google.com");
+			System.out.println("Google: "+google.getHostAddress());
+			
+
+			String base = "192.168.0.";
+			for(int i=1 ; i<255 ; i++) {
+				System.out.println(base + i);
+			}
 			
 			
 			
