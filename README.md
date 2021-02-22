@@ -22,3 +22,11 @@
 <p><a href="https://github.com/domic0620/PRS2B">Client TCP (Transferencia de texto)</a></p>
 <p><a href="https://github.com/domic0620/PRS2C">Server TCP (Transferencia de bytes)</a></p>
 <p><a href="https://github.com/domic0620/PRS2D">Client TCP (Transferencia de bytes)</a></p>
+
+
+
+<p>Semana 3</p>
+<p><a href="https://github.com/domic0620/PRS3ACode">Patrón Observer Intro</a></p>
+<p><a href="https://github.com/domic0620/PRS3BCode">TCP Observer</a></p>
+<p><a href="https://github.com/domic0620/PRS3CCode">Cliente TCP para pruebas</a></p>
+
