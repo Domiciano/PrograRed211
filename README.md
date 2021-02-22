@@ -12,3 +12,13 @@
 <a href="https://miro.com/app/board/o9J_lWAhZoQ=/" target="_blank"><img src="https://appmirror.net/wp-content/uploads/2020/12/miro-icon-1200x1200.png" width="200"></a>
 <br>
 
+<p><b>Códigos</b></p>
+
+<p>Semana 1</p>
+<p><a href="https://github.com/domic0620/PRS1ACode">Código 1</a></p>
+
+<p>Semana 2</p>
+<p><a href="https://github.com/domic0620/PRS2A">Código 1</a></p>
+<p><a href="https://github.com/domic0620/PRS2B">Código 2</a></p>
+<p><a href="https://github.com/domic0620/PRS2C">Código 3</a></p>
+<p><a href="https://github.com/domic0620/PRS2D">Código 4</a></p>
