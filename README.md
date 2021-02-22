@@ -18,7 +18,7 @@
 <p><a href="https://github.com/domic0620/PRS1ACode">Código 1</a></p>
 
 <p>Semana 2</p>
-<p><a href="https://github.com/domic0620/PRS2A">Código 1</a></p>
-<p><a href="https://github.com/domic0620/PRS2B">Código 2</a></p>
-<p><a href="https://github.com/domic0620/PRS2C">Código 3</a></p>
-<p><a href="https://github.com/domic0620/PRS2D">Código 4</a></p>
+<p><a href="https://github.com/domic0620/PRS2A">Server TCP (Transferencia de texto)</a></p>
+<p><a href="https://github.com/domic0620/PRS2B">Client TCP (Transferencia de texto)</a></p>
+<p><a href="https://github.com/domic0620/PRS2C">Server TCP (Transferencia de bytes)</a></p>
+<p><a href="https://github.com/domic0620/PRS2D">Client TCP (Transferencia de bytes)</a></p>
