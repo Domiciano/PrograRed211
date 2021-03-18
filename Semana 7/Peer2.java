@@ -22,7 +22,7 @@ public class Peer2 {
 		// Asincrono
 		new Thread(() -> {
 			try {
-				socket = new MulticastSocket(5002);
+				socket = new MulticastSocket(5001);
 				group = InetAddress.getByName("224.0.0.1");
 				socket.joinGroup(group);
 
