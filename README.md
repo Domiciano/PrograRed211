@@ -9,7 +9,7 @@
 
 <b>Contenido del curso</b><br>
 <p>En el siguiente board de Miro podrá encontrar las clase asíncronas y las grabaciones de las clases síncronas</p>
-<a href="https://miro.com/app/board/o9J_lWAhZoQ=/" target="_blank"><img src="https://appmirror.net/wp-content/uploads/2020/12/miro-icon-1200x1200.png" width="200"></a>
+<a href="https://miro.com/app/board/o9J_l23kC64=/" target="_blank"><img src="https://store-images.s-microsoft.com/image/apps.59334.da7f283b-9ae8-462d-968c-37937444d8e9.94b0a2b8-1808-4bf5-987d-ab0d9b98780e.05b65b02-4545-49e7-b530-981ac20aa7a2.png" width="200"></a>
 <br>
 
 ## SEMANA 11
